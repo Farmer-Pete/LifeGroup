@@ -1,3 +1,5 @@
+status: published
+
 Before You Enter the Promised Land
 ==================================
 

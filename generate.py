@@ -1,22 +1,20 @@
 #!/bin/env python2.7
-import datetime
-import easywebdav
-import getpass
-import glob
-import htmlmin.minify
-import itertools
-import lxml.etree
-import markdown
 import os
-import pytz
 import re
+import glob
+import pytz
 import sass
+import time
 import shutil
+import urllib2
+import datetime
+import markdown
 import StringIO
 import subprocess
-import time
-import urllib2
+import lxml.etree
+import easywebdav
 import ConfigParser
+import htmlmin.minify
 
 class DAV(object):
 
@@ -93,7 +91,7 @@ class DAV(object):
 
 class Generator(object):
 
-    _MD_PLUGINS = ['extra', 'smarty', 'attr_list', 'headerid']
+    _MD_PLUGINS = ['extra', 'smarty', 'attr_list', 'headerid', 'tables', 'meta']
     _IMG_EXTENSIONS = ['png', 'jpg', 'jpeg', 'gif']
     _INDEX_HTML = """
                 <div class="banner">
@@ -108,6 +106,7 @@ class Generator(object):
         self._templateDir = templateDir
         self._targetDir = targetDir
         self._data = list()
+        self._markdown = markdown.Markdown(extensions = self._MD_PLUGINS)
 
         print 'Copying over base template'
         shutil.rmtree(self._targetDir, True)
@@ -162,7 +161,7 @@ class Generator(object):
             base = file.partition('.')[0]
 
             with open(file, 'r') as f:
-                html = markdown.markdown(f.read(), self._MD_PLUGINS)
+                html = self._markdown.convert(f.read())
                 tree = lxml.etree.parse(StringIO.StringIO(html), lxml.etree.HTMLParser())
 
             headerImage = self._findFile(os.path.join('imgs','%s.head' % base), self._IMG_EXTENSIONS)
@@ -181,7 +180,8 @@ class Generator(object):
                 'F_HEADER_IMAGE': (headerImage, headerImageName, os.stat(headerImage)),
                 'F_FOOTER_IMAGE': (footerImage, footerImageName, os.stat(headerImage)),
                 'F_TARGET': base,
-                'STATS': os.stat(file)
+                'STATS': os.stat(file),
+                'STATUS': self._markdown.Meta['status'][0].lower()
             })
 
 
@@ -202,6 +202,9 @@ class Generator(object):
 
         for data in self._data:
 
+            if data['STATUS'] == 'hidden':
+                continue
+
             for imgPath, imgName, imgStats in (data['F_HEADER_IMAGE'], data['F_FOOTER_IMAGE']):
                 subprocess.check_call(['jpegoptim', '-o', '-p', '-t', '-s', '-m 50', imgPath])
                 targetFile = self._target('images', imgName)
@@ -221,13 +224,36 @@ class Generator(object):
     def generateIndex(self):
         print 'Creating index'
 
-        with open(self._template('index.html'), 'r') as fTemplate:
-            with open(self._target('index.html'), 'w') as fOut:
+        publishedHTML = ''
+        draftHTML = ''
+
+        for data in self._data:
+            if data['STATUS'] == 'published':
+                publishedHTML += self._INDEX_HTML % data
+                draftHTML += self._INDEX_HTML % data
+            if data['STATUS'] == 'draft':
+                draftHTML += self._INDEX_HTML % data
+
+        with open(self._template('index.html'), 'r') as fTemplate, \
+             open(self._target('index.html'), 'w') as fOut, \
+             open(self._target('index-draft.html'), 'w') as fOutDrafts:
+
+                templateHTML = fTemplate.read()
+
                 fOut.write(
                     self._HTMLminify(
-                        fTemplate.read() % {
-                            'CONTENT': ''.join((self._INDEX_HTML % data for data in self._data)),
-                            'TITLE': 'Centreville Life Group'
+                        templateHTML % {
+                            'TITLE': 'Centreville Life Group',
+                            'CONTENT': publishedHTML
+                        }
+                    )
+                )
+
+                fOutDrafts.write(
+                    self._HTMLminify(
+                        templateHTML % {
+                            'TITLE': 'Centreville Life Group (drafts)',
+                            'CONTENT': draftHTML
                         }
                     )
                 )

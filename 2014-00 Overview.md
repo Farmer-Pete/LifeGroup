@@ -1,3 +1,5 @@
+status: published
+
 Centreville Life Group 2014/2015 Overview
 =========================================
 
