@@ -1,0 +1,121 @@
+@media print {
+
+    header.site-header img, footer.site-footer img {
+        display: none;
+    }
+
+    p {
+        margin-bottom: 1em;
+    }
+
+    h1, h2, h3, h4, h5, h6, blockquote {
+        page-break-after: avoid;
+    }
+
+    h1 {
+        font-size: 200%;
+    }
+
+    h2 {
+        font-size: 175%;
+    }
+
+    h3 {
+        font-size: 150%;
+    }
+
+    h4, h5, h6 {
+        font-size: 100%;
+    }
+
+    body.single {
+
+        color: #000;
+        background: #fff;
+        line-height: 1em;
+        font-size: 12px;
+
+        // Show link URL
+        a[href^=http] {
+            color: #000;
+            text-decoration: underline;
+        }
+
+        a[href^=http]:after {
+            content:" <" attr(href) "> ";
+            font-size: 90%;
+        }
+
+        header#masthead {
+            display: none;
+        }
+
+        footer#mastfoot {
+            border: none;
+            background: none;
+            color: #000;
+
+            a {
+                color: #000;
+            }
+        }
+
+        article.hentry {
+            top: 0px;
+
+            .entry-intro:after, .entry-content:after, .entry-outtro .wrapper:after {
+                height: 0px;
+                background: none;
+                margin: 0px;
+            }
+
+            header.entry-header {
+                border: none;
+                margin: none;
+
+                h1.entry-title {
+                    margin: none;
+                    padding: none;
+                }
+            }
+
+            div.entry-intro.aligncenter {
+                margin-bottom: 1em;
+            }
+
+            blockquote, aside {
+                page-break-inside: avoid;
+            }
+
+            blockquote.alignleft, blockquote.alightright, blockquote.aligncenter, div.entry-intro, aside {
+                padding: 0px;
+                line-height: 1em;
+                float: none;
+                display: block;
+                width: 100%;
+                margin: 0px;
+                font-size: 1em;
+                border: none;
+                color: #000;
+            }
+
+            aside ul li {
+                margin-bottom: 0px;
+                font-weight: bold;
+            }
+
+            div.entry-content {
+                margin: none;
+                padding: none;
+
+                h2 {
+                    padding: 0px;
+                }
+            }
+
+            div.entry-outtro {
+                margin: 0px;
+            }
+        }
+    }
+}

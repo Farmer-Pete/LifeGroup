@@ -1,0 +1,6 @@
+Header size: 2,000px x 500px
+Footer size: 2,000px x 400px
+
+Save as JPEG @ 50% quality to reduce size
+
+All images are from MorgueFile

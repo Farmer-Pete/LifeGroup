@@ -1,0 +1,175 @@
+#toggle-nav {
+  cursor: pointer;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  height: 0;
+  z-index: 98;
+}
+#toggle-nav:before {
+  background: #252525;
+  color: white;
+  content: "\f419";
+  display: block;
+  padding: 7.425px;
+  position: fixed;
+  top: 50%;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  left: 0;
+}
+@media screen and (max-width: 800px) {
+  #toggle-nav:before {
+    position: absolute;
+    top: -29.7px;
+    left: 0;
+    width: 100%;
+  }
+}
+.navigation-main {
+  background: #252525;
+  color: white;
+  display: block;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  font-size: 0.77778em;
+  line-height: 2.12143em;
+  overflow-y: scroll;
+  position: fixed;
+  top: 0;
+  left: -260px;
+  text-transform: uppercase;
+  width: 260px;
+  height: 100%;
+  word-break: break-word;
+  z-index: 99;
+}
+.navigation-main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.navigation-main ul ul a {
+  padding-left: 29.7px;
+}
+.navigation-main ul ul ul a {
+  padding-left: 59.4px;
+}
+.navigation-main ul li:hover > ul {
+  display: block;
+}
+.navigation-main li {
+  display: block;
+  position: relative;
+}
+.navigation-main li.current_page_item > a, .navigation-main li.current-menu-item > a {
+  background-color: #333333;
+  color: rgba(255, 255, 255, 0.7);
+}
+.navigation-main a {
+  border-top: 1px solid #333333;
+  color: white;
+  display: block;
+  letter-spacing: 1px;
+  padding: 14.85px;
+  text-decoration: none;
+}
+.navigation-main a:hover {
+  background-color: #333333;
+  color: rgba(255, 255, 255, 0.7);
+}
+.navigation-main ul:first-child > li:first-child > a {
+  border-top: 0;
+}
+.navigation-main::-webkit-scrollbar {
+  width: 10px;
+}
+.navigation-main::-webkit-scrollbar-thumb {
+  background: #333333;
+}
+@media screen and (max-width: 800px) {
+  .navigation-main {
+    left: -100%;
+    position: absolute;
+    width: 100%;
+    height: auto;
+    z-index: 97;
+  }
+  .navigation-main ul {
+    margin-top: 0 !important;
+  }
+}
+
+.show-nav .navigation-main {
+  left: 0;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+.show-nav #toggle-nav:before {
+  left: 260px;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+@media screen and (max-width: 800px) {
+  .show-nav #toggle-nav:before {
+    left: auto;
+  }
+}
+
+.secondary-navigation {
+  margin: 0 0 29.7px;
+  text-align: center;
+}
+.secondary-navigation ul {
+  list-style: none;
+  margin: 0 29.7px;
+  padding: 0;
+}
+.secondary-navigation li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 7.425px 0 0;
+}
+.secondary-navigation li:after {
+  content: "\007E";
+  margin: 0 0 0 9.9px;
+}
+.secondary-navigation li:last-of-type:after {
+  display: none;
+}
+.secondary-navigation a {
+  color: #444444;
+}
+
+/* =Navigation */
+.site-content [class*="navigation"] {
+  font-style: italic;
+  margin-bottom: 29.7px;
+  overflow: hidden;
+}
+
+[class*="navigation"] a {
+  text-decoration: none;
+}
+[class*="navigation"] .nav-previous {
+  float: left;
+  width: 50%;
+}
+[class*="navigation"] .nav-next {
+  float: right;
+  text-align: right;
+  width: 50%;
+}
+

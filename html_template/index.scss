@@ -1,0 +1,65 @@
+body.index article.hentry {
+    top: 0px;
+
+    header.entry-header {
+        border: none;
+        margin: none;
+
+        h1.entry-title {
+            margin: none;
+            padding: none;
+        }
+    }
+
+    div.entry-content {
+        margin: none;
+        padding: none;
+
+        div.banner {
+
+            position:relative;
+
+            a {
+                display: block;
+                text-decoration: none;
+                margin: auto;
+
+                h2 {
+                    background: #FFF;
+                    position: absolute;
+                    top: 30%;
+                    padding: 1em;
+                    margin: 0px;
+                    border: 2px solid white;
+                    border-left: none;
+                }
+            }
+
+            a:hover h2 {
+                background: #444;
+                color: #FFF;
+            }
+
+            @media screen and (max-width: 400px) {
+                img {
+                    display: none
+                }
+
+                a {
+                    text-decoration: underline;
+                    h2 {
+                        position: static;
+                        top: 0px;
+                        border: 0px;
+                    }
+                }
+            }
+
+            @media screen and (max-width: 640px) {
+                h2 {
+                    font-size: 75%;
+                }
+            }
+        }
+    }
+}

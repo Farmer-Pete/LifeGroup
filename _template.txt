@@ -1,0 +1,21 @@
+TITLE
+=====
+
+<header markdown=1>
+</header>
+
+
+
+
+<article markdown=1>
+</article>
+
+
+
+
+<footer markdown=1>
+
+Dig Deeper!
+----------
+
+</footer>
