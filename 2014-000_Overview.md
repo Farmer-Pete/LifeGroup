@@ -48,6 +48,4 @@ Logistics
 
 </article>
 
-<footer markdown=1>
-<small>Childcare is provided at $5/family + $2/child. So a family with 3 children would pay $11/week. Fees are collected at the beginning of each month and are non-refundable</small>
-</footer>
+<footer markdown=1></footer>
