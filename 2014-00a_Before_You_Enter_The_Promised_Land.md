@@ -1,4 +1,4 @@
-status: published
+status: draft
 
 Before You Enter the Promised Land
 ==================================
