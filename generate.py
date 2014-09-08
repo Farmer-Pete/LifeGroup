@@ -164,8 +164,8 @@ class Generator(object):
                 html = self._markdown.convert(f.read())
                 tree = lxml.etree.parse(StringIO.StringIO(html), lxml.etree.HTMLParser())
 
-            headerImage = self._findFile(os.path.join('imgs','%s.head' % base), self._IMG_EXTENSIONS)
-            footerImage = self._findFile(os.path.join('imgs','%s.foot' % base), self._IMG_EXTENSIONS)
+            headerImage = self._findFile(os.path.join('imgs', base + '.head'), self._IMG_EXTENSIONS)
+            footerImage = self._findFile(os.path.join('imgs', base + '.foot'), self._IMG_EXTENSIONS)
             headerImageName = headerImage.partition(os.path.sep)[2]
             footerImageName = footerImage.partition(os.path.sep)[2]
 
@@ -181,9 +181,23 @@ class Generator(object):
                 'F_FOOTER_IMAGE': (footerImage, footerImageName, os.stat(headerImage)),
                 'F_TARGET': base,
                 'STATS': os.stat(file),
-                'STATUS': self._markdown.Meta['status'][0].lower()
+                'STATUS': self._markdown.Meta['status'][0].lower(),
+                'SOURCE': """
+                    <h2 id="source-material">Source Material</h2>
+                    <p>
+                        <a href="%(source.name.link)s"><img src="%(source.img)s" alt="%(source.name)s by %(source.author)s"/></a>
+                    </p>
+                    <p>
+                        <a href="%(source.name.link)s">%(source.name)s</a> by <a href="%(source.author.link)s">%(source.author)s</a>
+                    </p>
+                """ % {
+                        'source.img': self._markdown.Meta['source_cover'][0],
+                        'source.name': self._markdown.Meta['source_title'][0],
+                        'source.name.link': self._markdown.Meta['source_title'][1],
+                        'source.author': self._markdown.Meta['source_author'][0],
+                        'source.author.link': self._markdown.Meta['source_author'][1]
+                } if 'source_title' in self._markdown.Meta else ''
             })
-
 
     def compileSASS(self):
         print 'Compiling SASS'
@@ -209,11 +223,12 @@ class Generator(object):
                 subprocess.check_call(['jpegoptim', '-o', '-p', '-t', '-s', '-m 50', imgPath])
                 targetFile = self._target('images', imgName)
                 shutil.copy(imgPath, targetFile)
-                os.utime(imgPath, (imgStats.st_atime, imgStats.st_mtime))
+                os.utime(targetFile, (imgStats.st_atime, imgStats.st_mtime))
 
-            with open(self._target('%s.html' % data['F_TARGET']), 'wb') as f:
+            targetFile = self._target(data['F_TARGET'] + '.html')
+            with open(targetFile, 'wb') as f:
                 f.write(self._HTMLminify(self._templateHTML % data))
-                os.utime(imgPath, (data['STATS'].st_atime, data['STATS'].st_mtime))
+            os.utime(targetFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
 
     def cleanupFiles(self):
         print 'Cleaning up files'
