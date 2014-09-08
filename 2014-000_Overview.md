@@ -39,11 +39,15 @@ The theme for the 2014-2015 life group is: "__sit, walk, stand__"
 * **Walk**: Developing a daily walk with Christ and experiencing community
 * **Stand**: Standing firm both against temptation and in extending the Kingdom
 
+All studies will be based on approved materials. You are encouraged (but not required) to obtain these source materials and follow along :)
+
 Logistics
 ---------
 
 * **Where**: [6706 Hartwood Ln, Centreville](http://yhoo.it/1sADR9W)
-* **When**: Every Thursday. Study starts at 7:00 and ends at 8:30. On the 1st Thursday of the month, dinner social at 6:30; other weeks, snack social at 6:45.
+* **When**: Every Thursday. Study starts at 7:00 and ends at 8:30.
+    * On the 1st Thursday of the month, dinner social at 6:30
+    * Other weeks, snack social at 6:45.
 * **Childcare**: Provided; prepaid with with fees collected at the 1st meeting of each month
 
 </article>
