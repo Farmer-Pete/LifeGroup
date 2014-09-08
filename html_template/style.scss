@@ -559,12 +559,14 @@ img {
 /* Links */
 a {
   color: #444444;
+  -webkit-transition: color 1s ease-in-out;
+  transition: color 1s ease-in-out;
 }
 a:visited {
   color: #444444;
 }
 a:hover, a:focus, a:active {
-  color: #666666;
+  color: #F44;
 }
 
 /* Show or hide a11y text */
@@ -709,6 +711,11 @@ div.entry-outtro {
         padding-bottom: 3em;
         margin: 0px 2px 2px 2px;
         min-height: 10em;
+    }
+
+    img {
+        float: left;
+        margin-right: 1em;
     }
 }
 

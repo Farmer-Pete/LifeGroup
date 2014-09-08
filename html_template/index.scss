@@ -32,12 +32,22 @@ body.index article.hentry {
                     margin: 0px;
                     border: 2px solid white;
                     border-left: none;
+                    -webkit-transition: background-color 1s ease-in-out, color 1s ease-in-out;
+                    transition: background-color 1s ease-in-out, color 1s ease-in-out;
                 }
             }
 
-            a:hover h2 {
-                background: #444;
+            a:hover {
+
                 color: #FFF;
+
+                h2 {
+                    background: #444;
+                    color: #FFF;
+                    width: 100%;
+                    text-align: center;
+                    padding: 1em 0em;
+                }
             }
 
             @media screen and (max-width: 400px) {
