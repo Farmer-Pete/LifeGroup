@@ -1,0 +1,5 @@
+[DAV]
+hostname = myfiles.messagingengine.com
+username =
+password =
+protocol = https
