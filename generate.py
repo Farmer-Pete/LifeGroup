@@ -221,7 +221,7 @@ class Generator(object):
                 continue
 
             for imgPath, imgName, imgStats in (data['F_HEADER_IMAGE'], data['F_FOOTER_IMAGE']):
-                subprocess.check_call(['jpegoptim', '-o', '-p', '-t', '-s', '-m 50', imgPath])
+                subprocess.check_call(['jpegoptim', '-o', '-p', '-t', '--strip-all', '-m 50', '-T 1', imgPath])
                 targetFile = self._target('images', imgName)
                 shutil.copy(imgPath, targetFile)
                 os.utime(targetFile, (imgStats.st_atime, imgStats.st_mtime))
