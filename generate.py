@@ -1,6 +1,7 @@
 #!/usr/bin/env python2.7
 import os
 import re
+import sys
 import glob
 import pytz
 import sass
@@ -272,6 +273,22 @@ class Generator(object):
                         }
                     )
                 )
+
+# Check envrionment 
+
+if not hasattr(sass, 'compile') and hasattr(sass, 'compile_file'):
+    print 'Please install the SassPython instead of the sass package'
+    sys.exit(1)
+
+try:
+    subprocess.check_output(['which', 'jpegoptim'])
+except subprocess.CalledProcessError:
+    print 'Please install jpegoptim'
+    sys.exit(1)
+
+if not os.path.exists('login.cfg'):
+    print 'login.cfg not properly configured, see login.cfg.txt for an example'
+    sys.exit(1)
 
 config = ConfigParser.ConfigParser()
 config.read('login.cfg')
