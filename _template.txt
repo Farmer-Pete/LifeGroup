@@ -25,11 +25,4 @@ TITLE
 Dig Deeper!
 ----------
 
-Source Material
----------------
-
-![TITLE by AUTHOR](THUMBNAIL)
-
-[TITLE](LINK) by [AUTHOR](LINK)
-
 </footer>
