@@ -48,7 +48,7 @@ Logistics
 * **When**: Every Thursday. Study starts at 7:00 and ends at 8:30.
     * On the 1st Thursday of the month, dinner social at 6:30
     * Other weeks, snack social at 6:45.
-* **Childcare**: Provided; prepaid with with fees collected at the 1st meeting of each month
+* **Childcare**: Available during the study (from 7:00 - 8:30) for $7/child.
 * **Calendar**: The calendar of dates and times is published [on the website](http://is.gd/2014schedule).
 
 </article>
