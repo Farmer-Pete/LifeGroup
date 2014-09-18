@@ -250,6 +250,9 @@ class Generator(object):
             if data['STATUS'] == 'draft':
                 draftHTML += self._INDEX_HTML % data
 
+        # Insert attendance tracking link
+        publishedHTML += '<div style="text-align:right;"><a href="https://creator.zoho.com/linuxlefty/attendance-tracker/">Attendance</a></div>'
+
         with open(self._template('index.html'), 'r') as fTemplate, \
              open(self._target('index.html'), 'w') as fOut, \
              open(self._target('index-draft.html'), 'w') as fOutDrafts:
@@ -274,7 +277,7 @@ class Generator(object):
                     )
                 )
 
-# Check envrionment 
+# Check environment 
 
 if not hasattr(sass, 'compile') and hasattr(sass, 'compile_file'):
     print 'Please install the SassPython instead of the sass package'
