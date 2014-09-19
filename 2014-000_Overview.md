@@ -49,7 +49,7 @@ Logistics
     * On the 1st Thursday of the month, dinner social at 6:30
     * Other weeks, snack social at 6:45.
 * **Childcare**: Available during the study (from 7:00 - 8:30) for $7/child.
-* **Calendar**: The calendar of dates and times is published [on the website](http://is.gd/2014schedule).
+* **Calendar**: The calendar of dates and times is published [on the website](http://naud.us/2014-001_Schedule.html).
 
 </article>
 

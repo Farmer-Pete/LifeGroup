@@ -177,7 +177,7 @@ class Generator(object):
                 'OUTTRO': self._innerHTML(tree, '//footer').replace('[???', '<aside>').replace('???]', '</aside>'),
                 'HEADER_IMAGE': urllib2.quote('images/' + headerImageName),
                 'FOOTER_IMAGE': urllib2.quote('images/' + footerImageName),
-                'URL': urllib2.quote('/%s.html' % base),
+                'URL': 'http://naud.us/' + urllib2.quote('%s.html' % base),
                 'F_HEADER_IMAGE': (headerImage, headerImageName, os.stat(headerImage)),
                 'F_FOOTER_IMAGE': (footerImage, footerImageName, os.stat(headerImage)),
                 'F_TARGET': base,
