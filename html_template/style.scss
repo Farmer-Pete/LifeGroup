@@ -586,8 +586,8 @@ a:hover, a:focus, a:active {
         text-align: center;
     }
     img {
-    display: block;
-    margin: 0 auto;
+        display: block;
+        margin: 0 auto;
     }
 }
 
@@ -621,15 +621,19 @@ a:hover, a:focus, a:active {
   margin: 0;
   position: relative;
   width: 100%;
-}
 
-.site-footer a {
-  color: #999999;
-  text-decoration: none;
-}
+  a {
+    color: #999999;
+    text-decoration: none;
+  }
 
-.site-footer a:hover {
-  text-decoration: underline;
+  a:hover {
+    text-decoration: underline;
+  }
+
+  img {
+    opacity: 0.5;
+  }
 }
 
 .site-info {
@@ -746,6 +750,10 @@ div.entry-outtro {
   margin-bottom: 29.7px;
   margin-top: 29.7px;
   background: #FFFFFF;
+}
+
+.entry-header {
+  opacity: 0.75;
 }
 
 .entry-header, .entry-outtro {

@@ -45,5 +45,25 @@
         <img src="%(FOOTER_IMAGE)s" />
         This work by <a href="mailto:linuxlefty@fastmail.fm">Peter Naudus</a> is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 License</a>. Unless otherwise indicated, all scripture quotations are from the <a href="http://esv.org">English Standard Version</a>. Used by permission.</footer>
     </div>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            function onScroll() {
+                var scrollYpos = $(document).scrollTop();
+                if (scrollYpos < $('#masthead').height()) {
+                    var newOpacity = (scrollYpos / ($('#masthead').height() - ($('.entry-header').offset().top / 2)));
+                    $('#masthead img').css({opacity: 1 - newOpacity});
+                    $('.entry-header').css({opacity: (newOpacity > 0.8) ? newOpacity : 0.8});
+                } else {
+                    var scrollYposBot = $(document).height() - $(window).height() - $(window).scrollTop();
+                    if (scrollYposBot < $('#mastfoot').height()) {
+                        $('#mastfoot img').css({opacity: 1 -(scrollYposBot / $('#mastfoot').height())});
+                    }
+                }
+            };
+            $(window).scroll(onScroll);
+            onScroll();
+        });
+    </script>
 </body>
 </html>
