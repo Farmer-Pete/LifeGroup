@@ -681,7 +681,13 @@ a:hover, a:focus, a:active {
   top: -7em;
   max-width: 900px;
   margin: auto;
+
+  @media screen and (max-width: 640px) {
+    top: -1em;
+  }
+
 }
+
 @media screen and (max-width: 1014px) {
   .hentry.has-thumbnail {
     margin-top: 0;
@@ -720,6 +726,14 @@ div.entry-outtro {
     img {
         float: left;
         margin-right: 1em;
+    }
+
+    @media screen and (max-width: 800px) {
+        margin-bottom: -10em;
+    }
+
+    @media screen and (max-width: 640px) {
+        margin-bottom: -2em;
     }
 }
 
@@ -779,10 +793,6 @@ div.entry-outtro {
     font-size: 1.83333em;
     line-height: 1.8em;
   }
-
-    div.entry-outtro {
-        margin-bottom: -10em;
-    }
 }
 
 .entry-thumbnail {

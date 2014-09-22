@@ -251,7 +251,7 @@ class Generator(object):
                 draftHTML += self._INDEX_HTML % data
 
         # Insert attendance tracking link
-        publishedHTML += '<div style="text-align:right;"><a href="https://creator.zoho.com/linuxlefty/attendance-tracker/">Attendance</a></div>'
+        publishedHTML += '<div style="text-align:right;font-size:small"><a href="https://creator.zoho.com/linuxlefty/attendance-tracker/">Attendance</a></div>'
 
         with open(self._template('index.html'), 'r') as fTemplate, \
              open(self._target('index.html'), 'w') as fOut, \
