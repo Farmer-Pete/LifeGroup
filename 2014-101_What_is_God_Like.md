@@ -1,4 +1,4 @@
-status: draft
+status: published
 source_cover: http://img2.imagesbn.com/images/43550000/43551955.JPG
 source_title: The Knowledge of the Holy
               http://www.barnesandnoble.com/w/knowledge-of-the-holy-reissue-a-w-tozer/1012775571?ean=9780060684129&itm=1&usri=9780060684129
@@ -9,7 +9,7 @@ What is God Like?
 =================
 
 <header markdown=1>
-Almost of us (probably all of us) at some time or another have asked wondered "what is God like?". Although we can never completely answer that question, God has revealed certain aspects about Himself which we are able to study.
+Most of us (probably all of us) at some time or another have wondered "what is God like?". Although we can never completely answer that question, God has revealed certain aspects about Himself which we are able to study.
 </header>
 
 
@@ -47,11 +47,11 @@ Why should we try?
 
 ???]
 
-If, with our limited mind, cannot grasp what God is like, why should we try?
+If we, with our limited mind, cannot grasp what God is like, why should we try?
 
 1. **To understand and worship Him better** -- True, we can't grasp a full understanding of God. However, every glimpse that we get of Him and His glory should fill us with awe and reverence. Knowing Him will allow us to worship God, both in spirit and in truth.
 2. **To keep us from idolatry** -- Tozer says, "the idolatrous heart assumes that God is other than He is ... and substitutes for the true God one made after his own likeness". We have many notions about God that we have obtained from our parents, tradition, and even our experiences. Without pursing an understanding of God, we won't know which of these notions aren't true.
-3. **To keep us from sin** -- Many a sin and dysfunction can be traced back to a wrong thinking of God. Once we get our life rooted in a correct understanding of God, many questions and (self-inflected) problems will evaporate.
+3. **To keep us from sin** -- Many a sin and dysfunction can be traced back to a wrong thinking of God. Once we get our life rooted in a correct understanding of God, our questions, problems, and temptations will be framed in the proper perspective.
 
 What are God's Attributes?
 -------------------------
@@ -61,7 +61,7 @@ What are God's Attributes?
 
 [???
 
-* What happens when we attempt to disassociate our attributes (ex: love) from the way God that God defines them?
+* What happens when we attempt to disassociate our attributes (ex: love) from the way God defines them?
 * Prior to today, have you considered how God perfectly fulfills all His attributes all the time? How does this knowledge impact you?
 
 ???]
@@ -82,5 +82,6 @@ Dig Deeper!
 
 * Read the first three chapters of "The Knowledge of the Holy" by "A.W. Tozer"
 * Prayerfully consider your views of God and which may be counter to the truths he has revealed about Himself
+* Read [http://esv.to/Job 38-41](Job 38-41) to see how God describes Himself and His awesomeness
 
 </footer>
