@@ -1,4 +1,4 @@
-status: draft
+status: published
 source_cover: http://img2.imagesbn.com/images/148500000/148503103.JPG
 source_title: Sit, Walk, Stand
               http://www.barnesandnoble.com/w/sit-walk-stand-watchman-nee/1016393808?ean=9780842358934&itm=1&usri=9780842358934
@@ -9,6 +9,7 @@ Sit And Be Still
 ================
 
 <header markdown=1>
+Many of us understand that we can't work our way to Heaven, but still think we can (and need to) work our way to a more fruitful Christian life.
 </header>
 
 
