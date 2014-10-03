@@ -226,10 +226,20 @@ class Generator(object):
                 shutil.copy(imgPath, targetFile)
                 os.utime(targetFile, (imgStats.st_atime, imgStats.st_mtime))
 
-            targetFile = self._target(data['F_TARGET'] + '.html')
-            with open(targetFile, 'wb') as f:
+            # Generate HTML
+
+            targetHTMLFile = self._target(data['F_TARGET'] + '.html')
+            with open(targetHTMLFile, 'wb') as f:
                 f.write(self._HTMLminify(self._templateHTML % data))
-            os.utime(targetFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
+            os.utime(targetHTMLFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
+
+            # Generate PDF
+            targetPDFFile = self._target(data['F_TARGET'] + '.pdf')
+            subprocess.check_output([
+                'wkhtmltopdf', '-B 0mm', '-T 0mm', '-L 5mm', '-R 5mm',
+                targetHTMLFile, targetPDFFile
+            ])
+            os.utime(targetPDFFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
 
     def cleanupFiles(self):
         print 'Cleaning up files'
