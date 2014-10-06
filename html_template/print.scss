@@ -1,11 +1,12 @@
 @media print {
 
-    header.site-header img, footer.site-footer img {
+    header.site-header img, footer.site-footer img, img.book_cover {
         display: none;
     }
 
-    p {
-        margin-bottom: 1em;
+    h1, h2, h3, h4, h5, h6, blockquote {
+        padding: none;
+        margin: 0.5em;
     }
 
     h1, h2, h3, h4, h5, h6, blockquote {
@@ -35,7 +36,7 @@
         line-height: 1em;
         font-size: 12px;
 
-        // Show link URL
+        /*
         a[href^=http] {
             color: #000;
             text-decoration: underline;
@@ -45,6 +46,7 @@
             content:" <" attr(href) "> ";
             font-size: 90%;
         }
+        */
 
         header#masthead {
             display: none;

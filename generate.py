@@ -177,7 +177,7 @@ class Generator(object):
                 'OUTTRO': self._innerHTML(tree, '//footer').replace('[???', '<aside>').replace('???]', '</aside>'),
                 'HEADER_IMAGE': urllib2.quote('images/' + headerImageName),
                 'FOOTER_IMAGE': urllib2.quote('images/' + footerImageName),
-                'URL': 'http://naud.us/' + urllib2.quote('%s.html' % base),
+                'URL': 'http://linuxlefty.fastmail.fm.user.fm/' + urllib2.quote('%s.html' % base),
                 'F_HEADER_IMAGE': (headerImage, headerImageName, os.stat(headerImage)),
                 'F_FOOTER_IMAGE': (footerImage, footerImageName, os.stat(headerImage)),
                 'F_TARGET': base,
@@ -186,7 +186,7 @@ class Generator(object):
                 'SOURCE': """
                     <h2 id="source-material">Source Material</h2>
                     <p>
-                        <a href="%(source.name.link)s"><img src="%(source.img)s" alt="%(source.name)s by %(source.author)s"/></a>
+                        <a href="%(source.name.link)s"><img class="book_cover" src="%(source.img)s" alt="%(source.name)s by %(source.author)s"/></a>
                     </p>
                     <p>
                         <a href="%(source.name.link)s">%(source.name)s</a> by <a href="%(source.author.link)s">%(source.author)s</a>
@@ -227,16 +227,15 @@ class Generator(object):
                 os.utime(targetFile, (imgStats.st_atime, imgStats.st_mtime))
 
             # Generate HTML
-
             targetHTMLFile = self._target(data['F_TARGET'] + '.html')
+            targetPDFFile = self._target(data['F_TARGET'] + '.pdf')
             with open(targetHTMLFile, 'wb') as f:
-                f.write(self._HTMLminify(self._templateHTML % data))
+                    f.write(self._HTMLminify(self._templateHTML % data))
             os.utime(targetHTMLFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
 
             # Generate PDF
-            targetPDFFile = self._target(data['F_TARGET'] + '.pdf')
             subprocess.check_output([
-                'wkhtmltopdf', '-B 0mm', '-T 0mm', '-L 5mm', '-R 5mm',
+                'wkhtmltopdf', '-B', '0mm', '-T', '0mm', '-L', '5mm', '-R', '5mm', '-O', 'Portrait',
                 targetHTMLFile, targetPDFFile
             ])
             os.utime(targetPDFFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
