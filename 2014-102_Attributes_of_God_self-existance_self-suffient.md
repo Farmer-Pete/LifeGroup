@@ -1,41 +1,67 @@
 status: draft
-source_cover: IMG_URL
-source_title: TITLE
-              LINK_URL
-source_author: AUTHOR
-               LINK_URL
+source_cover: http://img2.imagesbn.com/images/43550000/43551955.JPG
+source_title: The Knowledge of the Holy
+              http://www.barnesandnoble.com/w/tozer/1012775571
+source_author: A. W. Tozer
+               https://en.wikipedia.org/wiki/A._W._Tozer
 
-TITLE
-=====
+God is Self-Existent and Self-Sufficient
+========================================
 
 <header markdown=1>
+> ... it's not always easy to get people to become real Christians. You can get them to sign a card, or make a decision, or join a church, or something like that. But to get people delivered from their sin a pretty hard deal because it means that I've got to get off that throne. God belongs on that throne but sin as pushed God off and taken over.
+<cite>A.W. Tozer (The Attributes of God, volume 2)</cite>
+
+> God alone trusts in Himself; all other beings must trust in Him. Unbelief is actually perverted faith, for it puts it trust not in the living God but in dying men. The unbelief denies the self-sufficiency of God and usurps attributes that are not his. The dual sin dishonors God ultimately destroys the soul of the man.
+<cite>A.W. Tozer (The Knowledge of the Holy)</cite>
 </header>
 
 
 
 
 <article markdown=1>
-Self-existance
-Exodus 3:11-15
-* "To admine that there is ONe who lies beyond us, who exists outide of all our categories, who will not be dismissed with a name, who will not appear wbefore the bar of our reason, nor submit to our curious inquiries: this requires a great dea l of hility, more than most of us posess, who we save face by thinking GOd down to our leve, or at least down to where we can manage Him."
-* I AM THAT I AM
-* we were made in the image of God ... our (and all of Creation) existance depends on HIS existance
-* "We can never know who are what we are till we know at least something of what GOd is. FOr this reason the self-eistance of God is not a wisp of dry doctine, academic and remote" <-- Why should we care / study this?
-* "Man is a created being, a derived and contingent self, who of himself posssesses nothing but ins dependent each moment ofr his existance upon the One who created him after His own likeness."
-* We are created in God's likeness, but sin enteres in when we try to be "like God" by taking on attributes that only rightly belong to Him. "The natural man is a sinner because and only because he challenges God's selfhood in relation to his own. If all else he may willingly acce[t the sovereignty of God; in his own life he relecects it. For him, God's dominion ends where his begins. For Him, self becomes Self, and in this unconsciously immitates Lucifer, that fallen son of the morning."
-* "Yet so subtle is self that scarely any one is conscious of its presence"
-* "BIBLE: In the beginning was the Word, and the Word was with God and the Word was God ..."
-* We were created ... what were we created for?
-* If we were created, then we are accountable to the creator
-* The created wants to assert himself over the creator
-* Why does God exist? ... certianly not to just give us what we want!
-* "That's why it's not always easy to get people to become real Christians. YOu can get them to sign a card, or make a decision, or join a church, or something like that. But to get people delivered from their sin a pretty hard deal because it means that I've got to get off that throne. God belongs on that throne but sin as pushed God off an taken over." (Attributes vol2)
+
+God's Self-Existence
+--------------------
+
+> God said to Moses, "I AM WHO I AM." And he said, "Say this to the people of Israel, 'I AM has sent me to you.'" ... This is my name forever, and thus I am to be remembered throughout all generations.
+<cite>Exodus 3:14-15 ESV</cite>
+
+=== The God who Is ===
+
+[???
+
+* If God was not self-existent and had a creator, would He still be God?
+* What other attributes of God are rooted in His self-existence?
+
+???]
+
+God has no beginning or end. It's hard to fathom, but God has existed for all eternity past and will continue to exist for all eternity. His self-existence is foundational to many of his other attributes. For example, since He needed no one to create Him, He needs no one to sustain him (and is self-sufficient). Since He has no beginning, He has no end (and is eternal). As no external force created Him, no external force can change him (and is immutable).
+
+=== Yielding to our Creator ===
+
+[???
+
+* Why do we wish to explain away our creator? What does it mean if we were created?
+* What areas/attributes has God identified in your life that you need to work on?
+* Are there any attributes that rightly belong only to God that you are trying to assert?
+
+???]
+
+God is self-existent, but our existence is dependent on God, as He is our creator. It is against this fact that we rail and kick against, turning to theories of evolution, in a desperate attempt to explain away the first several chapters of Genesis. It is this desire that is the foundation of our sin. For although God made us in His likeness wants us to be like Him, our fallen nature wants to be "like God" in an incorrect way. God wishes for us to become more loving, merciful, and just. We wish to assert that we are self-sufficient, sovereign, and powerful. 
+
 * http://www.sermonaudio.com/sermoninfo.asp?SID=33091519412
 
+God's Self-Sufficiency
+----------------------
+
+> For as the Father has life in himself, so he has granted the Son also to have life in himself.
+<cite>John 5:26 ESV</cite>
+
 Self-sufficiency
-* "No creature has life in itself, all life as a gift from God"
+* "No creature has life in itself, all life is a gift from God"
 * That is not just a one time gift, but a continual gift. We are forever dependent on God's gift of life (i.e. we are not self-sufficient)
-* God doesnt need anthing ... especially not our help!
+* God doesn't need anthing ... especially not our help!
 * Sometimes we feel like God is dependent on us ... that He needs us to worship Him
 * "Where all himan beings suddely to become blind, still the sun would shine by day and the stars by night, for these owe nothing to the millions who benefit from their light. So, where every man on earth to become atheist, it could not affect God is any way. He is what He is in Himself without reguard to any other. To believe in Him adds nothing to His perfections; to doubt Him takes nothing away."
 * God pursues us for our benefit ... not His
