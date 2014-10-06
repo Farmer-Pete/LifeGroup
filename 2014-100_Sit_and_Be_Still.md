@@ -1,7 +1,7 @@
 status: published
 source_cover: http://img2.imagesbn.com/images/148500000/148503103.JPG
 source_title: Sit, Walk, Stand
-              http://www.barnesandnoble.com/w/sit-walk-stand-watchman-nee/1016393808?ean=9780842358934&itm=1&usri=9780842358934
+              http://www.barnesandnoble.com/w/nee/1016393808?ean=9780842358934
 source_author: Watchman Nee
                https://en.wikipedia.org/wiki/Watchman_nee
 

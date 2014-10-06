@@ -1,7 +1,7 @@
 status: published
 source_cover: http://img2.imagesbn.com/images/43550000/43551955.JPG
 source_title: The Knowledge of the Holy
-              http://www.barnesandnoble.com/w/knowledge-of-the-holy-reissue-a-w-tozer/1012775571?ean=9780060684129&itm=1&usri=9780060684129
+              http://www.barnesandnoble.com/w/tozer/1012775571
 source_author: A. W. Tozer
                https://en.wikipedia.org/wiki/A._W._Tozer
 
