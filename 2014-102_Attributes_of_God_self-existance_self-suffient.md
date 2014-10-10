@@ -58,8 +58,8 @@ God's Self-Sufficiency
 [???
 
 * As God doesn't need us and it would be easier for him to do things Himself, why does He still choose to work through us?
-* God trusts in himself as there is no one more trustworthy. When we trust in ourselves, are we trying to be a god?
 * This entire culture is obsessed with being self-sufficient (i.e. "independent"). What areas of your life are you trying to make it on your own?
+* Is it wrong when we don't trust God? What's the difference between not understanding His ways and doubting one of God's attributes?
 
 ???]
 

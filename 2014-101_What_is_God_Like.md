@@ -26,7 +26,7 @@ Can we Know God?
 
 [???
 
-* We can't fully comprehend what God is like, much less his ways. Why then, do we question his actions?
+* We can't fully comprehend what God is like, much less his ways. Does that make it harder to trust Him?
 * Why do the gods we create in our image differ from the God we were created in the image of?
 
 ???]
