@@ -229,6 +229,7 @@ class Generator(object):
             # Generate HTML
             targetHTMLFile = self._target(data['F_TARGET'] + '.html')
             targetPDFFile = self._target(data['F_TARGET'] + '.pdf')
+            data['F_PDF'] = targetPDFFile.split('/')[-1]
             with open(targetHTMLFile, 'wb') as f:
                     f.write(self._HTMLminify(self._templateHTML % data))
             os.utime(targetHTMLFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
