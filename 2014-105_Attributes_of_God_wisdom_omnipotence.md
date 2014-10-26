@@ -57,10 +57,13 @@ Wisdom of God
 * If God is good an wise, how do you explain polio,prison camps, mass executions, wars and all the other evils that in the world? Many people life in a bed of suffering or go about with one leg or are def or blind. And if God is good and wise then how will you explain how this could be?
     * God created the Earth to be perfect and pure. However, it us currently under foreign occupation and all these things are caused by the evil in the world. God could eradicate the evil but in His Wisdom (and foresight) is allowing it for a time
 * "[Wisdom] is the skill the achieve the most perfect ends by the most perfect means ... Wisdom is the ability to see the end from the beginning, to see everything in proper relation and in full focus."
+* Will we trust God's wisem or our own? Isiah 53:6 defines sin as going our own way ... by trusting in our own way because we feel that course of action is wiser than God's way
+* This is the difference between a spirit-filled life and a self-filled life. Who is running it? Who is the boss? Whose wisdom is prevailing? God's or man's
+* When flying in an airple and there is turbulance we don't like it, we might even be scared and frightened, but we never run up to the cockpit and then try to take over. However, in life we expect that there is should be no turbulance and then want to take it over when we experiance hardship
 
 
-Omniscience of God
-------------------
+Goodness of God
+---------------
 
 
 > He heals the brokenhearted and binds up their wounds. He determines the number of the stars; he gives to all of them their names.  Great is our Lord, and abundant in power; his understanding is beyond measure.
@@ -71,15 +74,20 @@ Omniscience of God
 
 [???
 
-* Why do we try to hide (like Adam and Jonah) from an omniscient God?
-* Is the fact that God knows everything comfort or a terror (or both)?
-* How do we transfer "head" knowledge to "heart" knowledge?
-
 ???]
 
-God is omniscience, meaning that he knows everything. Not only does God know everything, he knows *EVERYTHING*. He has all knowledge about how your body works (or sometimes doesn't work), all the secrets of the universe, why your computer is acting up, the best way to solve the dilemma you're facing, and why your best friend has been acting strange around you. He knows everything that has happened, is currently going on, and will happen in the future. It is impossible for God to ever learn anything ... not because He isn't smart enough, but because there is nothing else to learn. Before the Earth even existed, He already knew everything.
+* When we say that God is good, it is different than saying that God is righteous or Holy. The goodness of God is that which disposes Him to be kind and benevolent ... a type of "good will" toward men.
+* If God is not good, then there can be no distinction between kindness and cruelty. Heaven would be Hell and Hell Heaven.
+* The goodness of God means He cannot feel indifferent about anything. People are indifferent, but not God. God either loves with a boundless unremitting energy or He hates with a comsuming fire.
+* Why were we created? Was it that we desrved to be created? How can nothing deserve something  God out of His goodness created us. Why were we not destroyed when we sinned? the only answer is that God of His goodness spared us.
+* Why would God the Eternal Son bleed for us? The answer is, out of His goodness and loving kindness. Why wouldGod forive me when I've sinned and then forgive me again and again? Because God out of HIs goodness acts according to that goodness and does what His loving heart disctates that He do.
+* Why does God answer prayer? Liet's not imageine that it's befcause somebody was good. (Think Santa Clause)
+* God is good and wants you to be happy ... and in His wisdom, he knows exactly what will make you happy in the long run. This isn't the prosperity gospel which uses our wisdom to take our desires and try to get God to put His stamp of approval on it
+    * Matthew 7:11
+    * Also, when you are obedient, happiness is an internal state, we want to make our external state amiable so then we will be happy
+    * We are the most happiest in Him when we are in His will ... even if that we are externally sourrounded by unhappy circonstances
+* God isn't pleased by your being miserable. He will make yolur miserable if you won't obey, but if you're surrendedered and obedient, toe goodness of God hasso wrought through Jesus Christ that He wants to please you.
 
-Because God knows you, He knows you. He knows you better than you know yourself. He knows your fears, strengths, weakness, victories, and secret sins you think no one knows about. Since God knows everything, when we God entrusts us with a task or allows us to encounter a trial, He knows it isn't too much for your handle. He knows all your insecurity and doubts and how it will ultimately turn out.
 
 </article>
 
