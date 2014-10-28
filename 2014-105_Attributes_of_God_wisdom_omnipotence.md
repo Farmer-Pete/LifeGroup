@@ -22,14 +22,50 @@ Wisdom of God
 > ...
 <cite>Romans 16:27 ESV</cite>
 
-> God will not compromise and He need not be coaxed. He cannot be persuaded to alter His word nor talked into answering selfish prayer. In all our efforts to find God ... we should remember that all change must be on our part
+> All God's acts are done in prefect wisdom, first for His own glory ... all His acts are pure as they are wise, and as good as they are wise and pure
 <cite>A.W. Tozer -- The Knowledge of the Holy</cite>
 
 [???
 
 * What is the difference between wisdom and shrewdness?
+* How do you personally hear God's voice and direction?
 
 ???]
+
+As we discussed previously, God is omnipotent and knows everything. Wisdom describes God's ability, not only to see and know everything, but to understand it. He sees everything clearly and how everything relates to everything else. Only He understands both what ultimate perfect outcome to a situation is and the perfect way to achieve it. I say "perfect" and not "good" or even "best" because God's wisdom is infinite and ultimate. It is impossible to improve upon (or even imagine an improvement to) God's actions.
+
+Many of us go through life, spending a lot of time planning, pursing goals, and pining over our future and direction. However, we spend relatively little time in prayer. Isiah 53:6 says "All we like sheep have gone astray we have turned -- every one -- to His own way; and the Lord laid on him the iniquity of us all." Ultimately sin is (and consequently most of our problems stem from) choosing our own way, or own wisdom over God's. Many times this rebellion isn't on purpose, we simply get wrapped up in our day-to-day and forget to consult the wisdom of God. This is why daily Bible study is so critical!
+
+
+Goodness of God
+---------------
+
+
+> He heals the brokenhearted and binds up their wounds. He determines the number of the stars; he gives to all of them their names.  Great is our Lord, and abundant in power; his understanding is beyond measure.
+<cite>Pslam 147:3-5 ESV</cite>
+
+> We can't tell God anything He doesn't already know and we can't excuse ourselves for anything. Our reasons are paper-thin and God sees through them. But in spite of it, God loves you and God will receive you.
+<cite>A.W. Tozer -- The Attributes of God, Volume 2</cite>
+
+[???
+
+???]
+
+* When we say that God is good, it is different than saying that God is righteous or Holy. The goodness of God is that which disposes Him to be kind and benevolent ... a type of "good will" toward men.
+* If God is not good, then there can be no distinction between kindness and cruelty. Heaven would be Hell and Hell Heaven.
+* The goodness of God means He cannot feel indifferent about anything. People are indifferent, but not God. God either loves with a boundless unremitting energy or He hates with a consuming fire.
+* Why were we created? Was it that we deserved to be created? How can nothing deserve something  God out of His goodness created us. Why were we not destroyed when we sinned? the only answer is that God of His goodness spared us.
+* Why would God the Eternal Son bleed for us? The answer is, out of His goodness and loving kindness. Why would God forgive me when I've sinned and then forgive me again and again? Because God out of His goodness acts according to that goodness and does what His loving heart dictates that He do.
+* Why does God answer prayer? Let's not imagine that it's because somebody was good. (Think Santa Clause)
+* God is good and wants you to be happy ... and in His wisdom, he knows exactly what will make you happy in the long run. This isn't the prosperity gospel which uses our wisdom to take our desires and try to get God to put His stamp of approval on it
+    * Matthew 7:11
+    * Also, when you are obedient, happiness is an internal state, we want to make our external state amiable so then we will be happy
+    * We are the most happiest in Him when we are in His will ... even if that we are externally surrounded by unhappy circumstances
+* God isn't pleased by your being miserable. He will make your miserable if you won't obey, but if you're surrendered and obedient, the goodness of God has wrought through Jesus Christ that He wants to please you.
+
+
+------------------------
+
 
 * The idea that God is infinitely wise is the root of all truth.
 * Two different types of wisdom: Wisdom of God (and of the Bible) is pure, loving and good. The other is is mere shrewdness and is treacherous and false.
@@ -61,32 +97,6 @@ Wisdom of God
 * This is the difference between a spirit-filled life and a self-filled life. Who is running it? Who is the boss? Whose wisdom is prevailing? God's or man's
 * When flying in an airple and there is turbulance we don't like it, we might even be scared and frightened, but we never run up to the cockpit and then try to take over. However, in life we expect that there is should be no turbulance and then want to take it over when we experiance hardship
 
-
-Goodness of God
----------------
-
-
-> He heals the brokenhearted and binds up their wounds. He determines the number of the stars; he gives to all of them their names.  Great is our Lord, and abundant in power; his understanding is beyond measure.
-<cite>Pslam 147:3-5 ESV</cite>
-
-> We can't tell God anything He doesn't already know and we can't excuse ourselves for anything. Our reasons are paper-thin and God sees through them. But in spite of it, God loves you and God will receive you.
-<cite>A.W. Tozer -- The Attributes of God, Volume 2</cite>
-
-[???
-
-???]
-
-* When we say that God is good, it is different than saying that God is righteous or Holy. The goodness of God is that which disposes Him to be kind and benevolent ... a type of "good will" toward men.
-* If God is not good, then there can be no distinction between kindness and cruelty. Heaven would be Hell and Hell Heaven.
-* The goodness of God means He cannot feel indifferent about anything. People are indifferent, but not God. God either loves with a boundless unremitting energy or He hates with a comsuming fire.
-* Why were we created? Was it that we desrved to be created? How can nothing deserve something  God out of His goodness created us. Why were we not destroyed when we sinned? the only answer is that God of His goodness spared us.
-* Why would God the Eternal Son bleed for us? The answer is, out of His goodness and loving kindness. Why wouldGod forive me when I've sinned and then forgive me again and again? Because God out of HIs goodness acts according to that goodness and does what His loving heart disctates that He do.
-* Why does God answer prayer? Liet's not imageine that it's befcause somebody was good. (Think Santa Clause)
-* God is good and wants you to be happy ... and in His wisdom, he knows exactly what will make you happy in the long run. This isn't the prosperity gospel which uses our wisdom to take our desires and try to get God to put His stamp of approval on it
-    * Matthew 7:11
-    * Also, when you are obedient, happiness is an internal state, we want to make our external state amiable so then we will be happy
-    * We are the most happiest in Him when we are in His will ... even if that we are externally sourrounded by unhappy circonstances
-* God isn't pleased by your being miserable. He will make yolur miserable if you won't obey, but if you're surrendedered and obedient, toe goodness of God hasso wrought through Jesus Christ that He wants to please you.
 
 
 </article>
