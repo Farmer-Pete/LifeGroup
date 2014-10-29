@@ -19,8 +19,8 @@ God is Wise and Omnipotent
 Wisdom of God
 -------------------
 
-> ...
-<cite>Romans 16:27 ESV</cite>
+> But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.
+<cite>James 3:17 ESV</cite>
 
 > All God's acts are done in prefect wisdom, first for His own glory ... all His acts are pure as they are wise, and as good as they are wise and pure
 <cite>A.W. Tozer -- The Knowledge of the Holy</cite>
@@ -40,64 +40,38 @@ Many of us go through life, spending a lot of time planning, pursing goals, and 
 Goodness of God
 ---------------
 
+> If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!
+<cite>Matthew 7:11 ESV</cite>
 
-> He heals the brokenhearted and binds up their wounds. He determines the number of the stars; he gives to all of them their names.  Great is our Lord, and abundant in power; his understanding is beyond measure.
-<cite>Pslam 147:3-5 ESV</cite>
-
-> We can't tell God anything He doesn't already know and we can't excuse ourselves for anything. Our reasons are paper-thin and God sees through them. But in spite of it, God loves you and God will receive you.
-<cite>A.W. Tozer -- The Attributes of God, Volume 2</cite>
+> Why would God the Eternal Son bleed for us? The answer is, out of His goodness and loving kindness. Why would God forgive me when I've sinned and then forgive me again and again? Because God out of His goodness ... does what His loving heart dictates that He do.
+<cite>A.W. Tozer -- The Attributes of God, Volume 1</cite>
 
 [???
 
+* In what ways is the "prosperity gospel" true? What ways is it dangerously false?
+* Why do some people believe God wants them to be miserable?
+
 ???]
 
-* When we say that God is good, it is different than saying that God is righteous or Holy. The goodness of God is that which disposes Him to be kind and benevolent ... a type of "good will" toward men.
-* If God is not good, then there can be no distinction between kindness and cruelty. Heaven would be Hell and Hell Heaven.
-* The goodness of God means He cannot feel indifferent about anything. People are indifferent, but not God. God either loves with a boundless unremitting energy or He hates with a consuming fire.
-* Why were we created? Was it that we deserved to be created? How can nothing deserve something  God out of His goodness created us. Why were we not destroyed when we sinned? the only answer is that God of His goodness spared us.
-* Why would God the Eternal Son bleed for us? The answer is, out of His goodness and loving kindness. Why would God forgive me when I've sinned and then forgive me again and again? Because God out of His goodness acts according to that goodness and does what His loving heart dictates that He do.
-* Why does God answer prayer? Let's not imagine that it's because somebody was good. (Think Santa Clause)
-* God is good and wants you to be happy ... and in His wisdom, he knows exactly what will make you happy in the long run. This isn't the prosperity gospel which uses our wisdom to take our desires and try to get God to put His stamp of approval on it
-    * Matthew 7:11
-    * Also, when you are obedient, happiness is an internal state, we want to make our external state amiable so then we will be happy
-    * We are the most happiest in Him when we are in His will ... even if that we are externally surrounded by unhappy circumstances
-* God isn't pleased by your being miserable. He will make your miserable if you won't obey, but if you're surrendered and obedient, the goodness of God has wrought through Jesus Christ that He wants to please you.
+The goodness of God is the quality that describes the kindness, benevolence, and "good will" He shows to his creation. If God were not good, what a horrible place this would be! For if God was not good, Heaven would be a Hell and Hell, Heaven. It was goodness and loving kindness that compelled Christ to go to the cross for us, to continually forgive us, and to even create us in the first place. Lastly, it is because of His goodness that God answers prayer ... thank goodness that it isn't dependent on our goodness!
 
+Because God is good, He wants you to be happy and wants to bless you with gifts ... and in His wisdom, He knows exactly what will make you happy in the long run. You being miserable doesn't please God. He will make your miserable if you refuse to obey Him, but if you are surrendered to His will, God will make you happy. Notice that I'm not saying that God will give you easy and happy circumstances. However, if you are obedient, he will allow you to be happy, regardless of what circumstances you are facing.
 
-------------------------
+Why is there suffering?
+-----------------------
 
+[???
 
-* The idea that God is infinitely wise is the root of all truth.
-* Two different types of wisdom: Wisdom of God (and of the Bible) is pure, loving and good. The other is is mere shrewdness and is treacherous and false.
-* "Wisdom, among other things, is the ability to devise perfect ends and to achieve those ends by the most perfect means."
-* Wisdom sees everything in focus, each in proper relationship to all, and is thus able to work toward predestined goals with flawless precision.
-*  Not only could God's acts not be done better, a better way to do them could not be imagined
-* Without creation, the wisdom of God would have remained forever locked away in God. God brought His creatures into being that He might enjoy them and they rejoice in Him. "And God saw everything that he had maid and behold it was very good"
-    * Many people have declared that they are unable to believe in God where so much appears to be wrong
-        * Prov 3:19
-        * "Our concern is not to explain but proclaim"
-    * It is true that currently the world is not the best of all possible worlds, but that is because of the Fall.
-    * God is all knowing and wise. Why then would He create man if He knew He would fall?
-        * Because He wanted to show Himself a deliverer?
-        * Because He wanted to demonstrate His love and His awesomeness
-        * The operation of the gospel, the new birth, the coming of the Holy Spirit into human nature, the ultimate triumph of Good over evil and the final establishment of Christ's righteous kingdom -- all these have flowedand do flow out of Gods ininte fullness of wisdom
-        * Are we willing to put ourselves in similar situations where we know there is "no good outcome", but it would be worse without us?
-            * Many people would probably say that is not a wise thing to do ... but wisdom is not looking to pick the path most confortable for us, but relying on God's wisdom ([see quote above])
-    * Our "golden age" is not in the past, in the Garden of Eden, but is in the future ... Heaven
-    * Any faith that must be supported by the evidence of the senses is not real faith.
-        * The testimony of faith is that no matter how things look in this fallen world, all God's acts are wrought in perfect wisdom.
-* Most of us go through life praying a little, planning a little, jockeying for position, hoping but never being quite certain of anything, and always secretly afraid that we will miss the way. This is a tragic waste of truth and never gives rest to the heart. There is a better way. It is to abandon our own wisdom and take, instead the infinite wisdom of God.
-* The wisdom of God is something to be taken on faith. We do not reason in order that we might believe, but we reason because we already believe. If I have to reason myself into faith, than I can be reasoned back out of it again.
-    * The three things we must accept as fact and in faith is that He is God, He is wise, and that He is good
-    * He has got to be wise or else you and I cannot be sure of anything. He's got to be good or heaven would be a hill and hell a heaven (since hell is the absence of God, but is not hell if God is not good)
-* If God is good an wise, how do you explain polio,prison camps, mass executions, wars and all the other evils that in the world? Many people life in a bed of suffering or go about with one leg or are def or blind. And if God is good and wise then how will you explain how this could be?
-    * God created the Earth to be perfect and pure. However, it us currently under foreign occupation and all these things are caused by the evil in the world. God could eradicate the evil but in His Wisdom (and foresight) is allowing it for a time
-* "[Wisdom] is the skill the achieve the most perfect ends by the most perfect means ... Wisdom is the ability to see the end from the beginning, to see everything in proper relation and in full focus."
-* Will we trust God's wisem or our own? Isiah 53:6 defines sin as going our own way ... by trusting in our own way because we feel that course of action is wiser than God's way
-* This is the difference between a spirit-filled life and a self-filled life. Who is running it? Who is the boss? Whose wisdom is prevailing? God's or man's
-* When flying in an airple and there is turbulance we don't like it, we might even be scared and frightened, but we never run up to the cockpit and then try to take over. However, in life we expect that there is should be no turbulance and then want to take it over when we experiance hardship
+* Why does God continue to grant us free will when we continue to mess things up (and blame God in the process)?
+* What are your thoughts on this?
 
+???]
 
+I'm sure we all have heard people state that they are unable to believe in God because of all the suffering and evil in the world. Either, they claim, God is not wise because He gave man opportunity to fall, or He is not good in allowing evil, natural disasters, and the like. Before we continue, certain things, like God's wisdom and goodness ultimately have to be taken in faith. We can use reason to confirm our faith, but our faith is not based upon reason. For, as Tozer states, "if I have to reason myself into faith, then I can be reasoned back out of it again". With that said, let's tackle each objection, in turn.
+
+As we defined earlier, wisdom is the ability to achieve the perfect end by the most perfect means. We look at the current circumstances that we are going through, God looks at what those circumstances will ultimately achieve. "The Fall" was by no means God's best for humanity. However, as Romans 5:20 says, "... where sin increased, grace abounded all the more". Jesus great sacrifice, the Holy Spirit, the ultimate triumph of good over evil, heaven, and even the entire gospel is a direct result of God showing His love and awesomeness in reaction to man's sin.
+
+God created this world to be perfect and pure. However, it is currently under foreign occupation by the devil and the affects of sin which has ravaged God's creation. Some people claim that God cannot be good because he allows evil and the effects of evil. Ironically, the only reason God doesn't eradicate evil is because of His goodness. God will ultimately come back in judgement and destroy the Earth, creating a new Earth where he will set up His kingdom. Why is He waiting? "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." (2 Peter 3:9 ESV)
 
 </article>
 
@@ -109,8 +83,8 @@ Goodness of God
 Dig Deeper!
 ----------
 
-* Read "God's Immutability" from "The Attributes of God, Volume 2" by A.W. Tozer
-* Read "God's Omniscience" from "The Attributes of God, Volume 2" by A.W. Tozer
-* Listen to Tozer's sermons on [God's immutability](http://www.sermonaudio.com/sermoninfo.asp?SID=8130751737) and [God's omniscience](http://www.sermonaudio.com/sermoninfo.asp?SID=84076264), from which these chapters were based upon.
+* Read "God's Wisdom" from "The Attributes of God, Volume 2" by A.W. Tozer
+* Read "God's Goodness" from "The Attributes of God, Volume 1" by A.W. Tozer
+* Listen to Tozer's sermons on [God's wisdom](http://www.sermonaudio.com/sermoninfo.asp?SID=81507437440) and [God's goodness](http://www.sermonaudio.com/sermoninfo.asp?SID=7807204121), from which these chapters were based upon.
 
 </footer>
