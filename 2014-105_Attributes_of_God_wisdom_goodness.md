@@ -5,8 +5,8 @@ source_title: The Knowledge of the Holy
 source_author: A. W. Tozer
                https://en.wikipedia.org/wiki/A._W._Tozer
 
-God is Wise and Omnipotent
-==========================
+God is Wise and Good
+====================
 
 <header markdown=1>
 </header>
@@ -17,7 +17,7 @@ God is Wise and Omnipotent
 <article markdown=1>
 
 Wisdom of God
--------------------
+-------------
 
 > But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.
 <cite>James 3:17 ESV</cite>
@@ -32,9 +32,9 @@ Wisdom of God
 
 ???]
 
-As we discussed previously, God is omnipotent and knows everything. Wisdom describes God's ability, not only to see and know everything, but to understand it. He sees everything clearly and how everything relates to everything else. Only He understands both what ultimate perfect outcome to a situation is and the perfect way to achieve it. I say "perfect" and not "good" or even "best" because God's wisdom is infinite and ultimate. It is impossible to improve upon (or even imagine an improvement to) God's actions.
+As we discussed previously, God is omniscient and knows everything. Wisdom describes God's ability not only to see and know everything, but to understand it. He sees everything clearly and how everything relates to everything else. Only He understands both what the ultimate perfect outcome to a situation is and the perfect way to achieve it. I say "perfect" and not "good" or even "best" because God's wisdom is infinite and ultimate. It is impossible to improve upon (or even imagine an improvement to) God's actions.
 
-Many of us go through life, spending a lot of time planning, pursing goals, and pining over our future and direction. However, we spend relatively little time in prayer. Isiah 53:6 says "All we like sheep have gone astray we have turned -- every one -- to His own way; and the Lord laid on him the iniquity of us all." Ultimately sin is (and consequently most of our problems stem from) choosing our own way, or own wisdom over God's. Many times this rebellion isn't on purpose, we simply get wrapped up in our day-to-day and forget to consult the wisdom of God. This is why daily Bible study is so critical!
+Many of us go through life, spending a lot of time planning, pursuing goals, and pining over our future and direction. However, we spend relatively little time in prayer. Isiah 53:6 says "All we like sheep have gone astray we have turned -- every one -- to His own way; and the Lord laid on him the iniquity of us all." Ultimately sin is (and consequently most of our problems stem from) choosing our own way, or own wisdom over God's. Many times this rebellion isn't on purpose, we simply get wrapped up in our day-to-day and forget to consult the wisdom of God. This is why daily Bible study is so critical!
 
 
 Goodness of God
@@ -49,13 +49,13 @@ Goodness of God
 [???
 
 * In what ways is the "prosperity gospel" true? What ways is it dangerously false?
-* Why do some people believe God wants them to be miserable?
+* How does God define happiness?
 
 ???]
 
 The goodness of God is the quality that describes the kindness, benevolence, and "good will" He shows to his creation. If God were not good, what a horrible place this would be! For if God was not good, Heaven would be a Hell and Hell, Heaven. It was goodness and loving kindness that compelled Christ to go to the cross for us, to continually forgive us, and to even create us in the first place. Lastly, it is because of His goodness that God answers prayer ... thank goodness that it isn't dependent on our goodness!
 
-Because God is good, He wants you to be happy and wants to bless you with gifts ... and in His wisdom, He knows exactly what will make you happy in the long run. You being miserable doesn't please God. He will make your miserable if you refuse to obey Him, but if you are surrendered to His will, God will make you happy. Notice that I'm not saying that God will give you easy and happy circumstances. However, if you are obedient, he will allow you to be happy, regardless of what circumstances you are facing.
+Because God is good, He wants you to be happy and wants to bless you with gifts ... and in His wisdom, He knows exactly what will make you happy in the long run. Naturally, we seek to fill our lives with ease and happy circumstances. However, true happiness cannot be found apart from God and is not dependent on our circumstances.
 
 Why is there suffering?
 -----------------------
@@ -71,7 +71,7 @@ I'm sure we all have heard people state that they are unable to believe in God b
 
 As we defined earlier, wisdom is the ability to achieve the perfect end by the most perfect means. We look at the current circumstances that we are going through, God looks at what those circumstances will ultimately achieve. "The Fall" was by no means God's best for humanity. However, as Romans 5:20 says, "... where sin increased, grace abounded all the more". Jesus great sacrifice, the Holy Spirit, the ultimate triumph of good over evil, heaven, and even the entire gospel is a direct result of God showing His love and awesomeness in reaction to man's sin.
 
-God created this world to be perfect and pure. However, it is currently under foreign occupation by the devil and the affects of sin which has ravaged God's creation. Some people claim that God cannot be good because he allows evil and the effects of evil. Ironically, the only reason God doesn't eradicate evil is because of His goodness. God will ultimately come back in judgement and destroy the Earth, creating a new Earth where he will set up His kingdom. Why is He waiting? "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." (2 Peter 3:9 ESV)
+God created this world to be perfect and pure. However, it is currently under foreign occupation by the devil and the effects of sin which has ravaged God's creation. Some people claim that God cannot be good because he allows evil and the effects of evil. Ironically, the only reason God doesn't eradicate evil is because of His goodness. God will ultimately come back in judgement and destroy the Earth, creating a new Earth where he will set up His kingdom. Why is He waiting? "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." (2 Peter 3:9 ESV)
 
 </article>
 
