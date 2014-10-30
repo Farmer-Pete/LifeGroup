@@ -33,12 +33,16 @@
         font-size: 100%;
     }
 
+    p, hr, pre, blockquote, .entry-content, .entry-summary {
+      margin-bottom: 1em;
+    }
+
     body.single {
 
         color: #000;
         background: #fff;
         line-height: 1em;
-        font-size: 12px;
+        font-size: 14px;
 
         /*
         a[href^=http] {
@@ -122,6 +126,13 @@
             div.entry-outtro {
                 margin: 0px;
             }
+        }
+    }
+
+    div.entry-outtro {
+        margin-bottom: 0em;
+        .wrapper {
+            padding-bottom: 0em;
         }
     }
 }
