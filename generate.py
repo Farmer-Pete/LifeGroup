@@ -299,6 +299,12 @@ except subprocess.CalledProcessError:
     print 'Please install jpegoptim'
     sys.exit(1)
 
+try:
+    subprocess.check_output(['which', 'wkhtmltopdf'])
+except subprocess.CalledProcessError:
+    print 'Please install wkhtmltopdf'
+    sys.exit(1)
+
 if not os.path.exists('login.cfg'):
     print 'login.cfg not properly configured, see login.cfg.txt for an example'
     sys.exit(1)
