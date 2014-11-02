@@ -205,7 +205,7 @@ class Generator(object):
         with open(self._target('style.css'), 'w') as f:
             f.write(
                 sass.compile(
-                    output_style="compressed",
+                    output_style="compact",
                     include_paths="html_template",
                     filename=self._template("style.scss")
                 )
