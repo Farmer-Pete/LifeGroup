@@ -17,6 +17,8 @@ import easywebdav
 import ConfigParser
 import htmlmin.minify
 
+PROXY = False
+
 class DAV(object):
 
     LOCAL_TZ = pytz.timezone("America/New_York")
@@ -215,6 +217,17 @@ class Generator(object):
 
         print 'Generating HTML files'
 
+        if PROXY:
+            print
+            print '=== Proxy ON ==='
+            print
+            pdfCommand = ['wkhtmltopdf', '-p', 'http://148.87.19.20:80', '-B', '0mm', '-T', '0mm', '-L', '5mm', '-R', '5mm', '-O', 'Portrait']
+        else:
+            print
+            print '=== Proxy OFF ==='
+            print
+            pdfCommand = ['wkhtmltopdf', '-B', '0mm', '-T', '0mm', '-L', '5mm', '-R', '5mm', '-O', 'Portrait']
+
         for data in self._data:
 
             if data['STATUS'] == 'hidden':
@@ -235,10 +248,7 @@ class Generator(object):
             os.utime(targetHTMLFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
 
             # Generate PDF
-            subprocess.check_output([
-                'wkhtmltopdf', '-B', '0mm', '-T', '0mm', '-L', '5mm', '-R', '5mm', '-O', 'Portrait',
-                targetHTMLFile, targetPDFFile
-            ])
+            subprocess.check_output(pdfCommand + [targetHTMLFile, targetPDFFile])
             os.utime(targetPDFFile, (data['STATS'].st_atime, data['STATS'].st_mtime))
 
     def cleanupFiles(self):
