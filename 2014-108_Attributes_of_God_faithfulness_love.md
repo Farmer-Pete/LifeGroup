@@ -33,7 +33,7 @@ Faithfulness of God
 
 ???]
 
-To say that God is faithful means that God will never act inconsistent with Himself. Everything that God says or does will be in accord with His faithfulness. He will always be true to Himself and His creation. This means that *nothing* can force God to act in a way that is unfaithful. No person or circumstance can come into our life that causes God to rethink His plans. Nothing surprises or blindsides our omniscient God. Nothing can prevent Him from faithfully fulfilling his plans and promises.
+To say that God is faithful means that God will never act inconsistently with Himself. Everything that God says or does will be in accord with His faithfulness. He will always be true to Himself and His creation. This means that *nothing* can force God to act in a way that is unfaithful. No person or circumstance can come into our life that causes God to rethink His plans. Nothing surprises or blindsides our omniscient God. Nothing can prevent Him from faithfully fulfilling his plans and promises.
 
 The faithfulness of God comes with both a warning and a blessing. The warning is that God is faithful to bring judgment upon those who are pursing a sinful lifestyle ... He isn't someone who threatens and doesn't follow through! God records hundreds of promises in the Bible: God will forgive and cleanse us from our sins if we confess them ([1 John 1:9](http://esv.to/1John1:9)), He will be fulfill His calling in you ([1 Thessalonians 5:24](http://esv.to/1Thes5:24)), He will give us rest ([Matthew 11:28](http://esv.to/Mat11:28)) and peace ([Isiah 54:10](http://esv.to/Isiah54:10)), He always provides a way out of temptation ([1 Corinthians 10:13](http://esv.to/1Cor10:13)) ... and hundreds more. He is faithful and able to fulfill each one!
 
@@ -58,11 +58,11 @@ Love of God
 
 ???]
 
-We have all sung "Jesus loves me, this I know", countless times. However, what does it mean that God loves us? Firstly, it means that God wants the very best for you. He is not a vengeful god that is looking for any excuse to smite you. He wants to bless you and wants you live a happy, fruitful life (and only He knows what that looks like). It was out of His love that He sent his son to redeem the human race ([John 3:16](http://esv.to/John3:16)).
+We have all sung "Jesus loves me, this I know", countless times. However, what does it mean that God loves us? Firstly, it means that God wants the very best for you. He is not a vengeful god that is looking for any excuse to smite you. He wants to bless you and wants you to live a happy, fruitful life (and only He knows what that looks like). It was out of His love that He sent his son to redeem the human race ([John 3:16](http://esv.to/John3:16)).
 
 Secondly, God's love involves emotion. Because God cares for you, He is angry and hurt when you sin. He is sorrowful when we suffer and go through trials ([Isaiah 53:4](http://esv.to/Isaiah53:4)). He rejoices and is pleased when we have victory. He is emotionally invested in you!
 
-Lastly, we have all heard that "God is love" and many people have used that as a platform to point out all the seemingly unloving things that God does or allows. This is why we must look to God and allow Him to define what love is ... rather than bringing our agendas and preconceived notions of what love is and then attempting to shoehorn God into them.
+Lastly, we have all heard that "God is love" and many people have used that as a platform to point out all the seemingly unloving things that God does or allows. This is why we must look to God and allow Him to define what love is, rather than bringing our agendas and preconceived notions of what love is and then attempting to shoehorn God into them.
 
 
 </article>
